@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\12894\source\repos\Survivor of Teyvat\Survivor of Teyvat\Widget.h(31,4): warning C4150: 删除指向不完整“Object”类型的指针；没有调用析构函数
+C:\Users\12894\source\repos\Survivor of Teyvat\Survivor of Teyvat\Button.h(47,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\12894\source\repos\Survivor of Teyvat\Survivor of Teyvat\Button.h(48,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\12894\source\repos\Survivor of Teyvat\Survivor of Teyvat\Player.h(397,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\12894\source\repos\Survivor of Teyvat\Survivor of Teyvat\main.cpp(31,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\12894\source\repos\Survivor of Teyvat\Survivor of Teyvat\main.cpp(32,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\12894\source\repos\Survivor of Teyvat\Survivor of Teyvat\main.cpp(221,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Survivor of Teyvat.vcxproj -> C:\Users\12894\source\repos\Survivor of Teyvat\x64\Debug\Survivor of Teyvat.exe

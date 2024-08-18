@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|solutionrelative:Survivor of Teyvat\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|solutionrelative:Survivor of Teyvat\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|solutionrelative:Survivor of Teyvat\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|solutionrelative:Survivor of Teyvat\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Widget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|solutionrelative:Survivor of Teyvat\\Widget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|solutionrelative:Survivor of Teyvat\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|solutionrelative:Survivor of Teyvat\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8525F8E3-3850-47A6-8D76-399FFBF1324F}|Survivor of Teyvat\\Survivor of Teyvat.vcxproj|solutionrelative:Survivor of Teyvat\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vs\\VC\\Tools\\MSVC\\14.40.33807\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Widget.h",
+              "DocumentMoniker": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Widget.h",
+              "RelativeDocumentMoniker": "Survivor of Teyvat\\Widget.h",
+              "ToolTip": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Widget.h",
+              "RelativeToolTip": "Survivor of Teyvat\\Widget.h",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T14:49:38.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "xmemory",
+              "DocumentMoniker": "D:\\vs\\VC\\Tools\\MSVC\\14.40.33807\\include\\xmemory",
+              "ToolTip": "D:\\vs\\VC\\Tools\\MSVC\\14.40.33807\\include\\xmemory",
+              "ViewState": "AQIAAKcCAAAAAAAAAIA0wLsCAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-16T07:22:34.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Enemy.h",
+              "RelativeDocumentMoniker": "Survivor of Teyvat\\Enemy.h",
+              "ToolTip": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Enemy.h",
+              "RelativeToolTip": "Survivor of Teyvat\\Enemy.h",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAI8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T04:31:02.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Object.h",
+              "DocumentMoniker": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Object.h",
+              "RelativeDocumentMoniker": "Survivor of Teyvat\\Object.h",
+              "ToolTip": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Object.h",
+              "RelativeToolTip": "Survivor of Teyvat\\Object.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T14:49:29.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Player.h",
+              "RelativeDocumentMoniker": "Survivor of Teyvat\\Player.h",
+              "ToolTip": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Player.h",
+              "RelativeToolTip": "Survivor of Teyvat\\Player.h",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAFYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T14:41:21.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\game.h",
+              "RelativeDocumentMoniker": "Survivor of Teyvat\\game.h",
+              "ToolTip": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\game.h",
+              "RelativeToolTip": "Survivor of Teyvat\\game.h",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAIEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T12:51:31.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Button.h",
+              "DocumentMoniker": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Button.h",
+              "RelativeDocumentMoniker": "Survivor of Teyvat\\Button.h",
+              "ToolTip": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Button.h",
+              "RelativeToolTip": "Survivor of Teyvat\\Button.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T14:39:36.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animation.h",
+              "DocumentMoniker": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Animation.h",
+              "RelativeDocumentMoniker": "Survivor of Teyvat\\Animation.h",
+              "ToolTip": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\Animation.h",
+              "RelativeToolTip": "Survivor of Teyvat\\Animation.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T12:37:52.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\main.cpp",
+              "RelativeDocumentMoniker": "Survivor of Teyvat\\main.cpp",
+              "ToolTip": "C:\\Users\\12894\\source\\repos\\Survivor of Teyvat\\Survivor of Teyvat\\main.cpp",
+              "RelativeToolTip": "Survivor of Teyvat\\main.cpp",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAYwHgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T12:36:42.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
