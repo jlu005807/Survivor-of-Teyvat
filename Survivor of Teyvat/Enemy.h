@@ -100,6 +100,7 @@ public:
 			{
 				if(enemy_type==0)
 				{
+					mciSendString(_T("play hit from 0"), NULL, 0, NULL);
 					player->bullet_list.pop_back();
 					player->is_hurt = true;
 					player->is_frozen = false;
@@ -107,17 +108,18 @@ public:
 				}
 				else if (enemy_type == 1)
 				{
+					mciSendString(_T("play hit from 0"), NULL, 0, NULL);
 					player->bullet_list.pop_back();
 					if(player->is_frozen==false)
 					   player->is_dizziness = true;
 				}
 				else if (enemy_type == 2)
 				{
+					mciSendString(_T("play ice from 0"), NULL, 0, NULL);
 					player->is_frozen = true;
 					player->score+= 9;
 
 				}
-				mciSendString(_T("play hit from 0"), NULL, 0, NULL);
 				this->Hurt();
 
 			}
