@@ -1,0 +1,37 @@
+# 忽略Visual Studio和编译中间文件
+*.obj
+*.log
+*.pdb
+*.ilk
+*.idb
+*.ipdb
+*.iobj
+*.tlog/
+*.lastbuildstate
+*.exe.recipe
+*.vcxproj.FileListAbsolute.txt
+
+# 忽略Debug和Release目录下的所有内容
+x64/Debug/
+x64/Release/
+Survivor\ of\ Teyvat/Debug/
+Survivor\ of\ Teyvat/Release/
+Survivor\ of\ Teyvat/x64/Debug/
+Survivor\ of\ Teyvat/x64/Release/
+Survivor-of-Teyvat_Setup/Debug/
+
+
+
+# 忽略Visual Studio项目相关文件和用户设置
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.cache
+*.ncb
+*.sdf
+*.opensdf
+*.ipch
+*.aps
+*.VC.VC.opendb 
