@@ -66,7 +66,7 @@ public:
 		case WM_MOUSEMOVE: {
 			if (status == Status::Idle && CheckCursorHit(msg.x, msg.y))
 			{
-				mciSendString(_T("play button from 0"), NULL, 0, NULL);
+				mciSendString(_T("play hurt from 0"), NULL, 0, NULL);
 				status = Status::Hovered;
 				scale = 1.1f;
 			}
@@ -83,13 +83,15 @@ public:
 				mciSendString(_T("stop button"), NULL, 0, NULL);
 				status = Status::Pushed;
 				scale = 0.9f;
-				mciSendString(_T("play click from 0"), NULL, 0, NULL);
 			}
 			break;
 		}
 		case WM_LBUTTONUP: {
 			if (status == Status::Pushed)
+			{
+				mciSendString(_T("play button from 0"), NULL, 0, NULL);
 				onClick();
+			}
 			break;
 		}
 		default:

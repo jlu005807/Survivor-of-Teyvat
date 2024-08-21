@@ -3,6 +3,9 @@
 #include<ctime>
 #include"Player.h"
 
+
+
+
 class Enemy :public Object
 {
 public:
@@ -108,7 +111,7 @@ public:
 				}
 				else if (enemy_type == 1)
 				{
-					mciSendString(_T("play hit from 0"), NULL, 0, NULL);
+					mciSendString(_T("play dizze from 0"), NULL, 0, NULL);
 					player->bullet_list.pop_back();
 					if(player->is_frozen==false)
 					   player->is_dizziness = true;

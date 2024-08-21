@@ -85,10 +85,9 @@ void game::init_game(int width, int height,int widget_num)
 	mciSendString(_T("open mus/bgm.mp3 alias bgm"), NULL, 0, NULL);
 	mciSendString(_T("open mus/begin.mp3 alias begin"), NULL, 0, NULL);
 	mciSendString(_T("open mus/Push_Button.mp3 alias button"), NULL, 0, NULL);
-	mciSendString(_T("open mus/click.mp3 alias click"), NULL, 0, NULL);
 	mciSendString(_T("open mus/upgrade.wav alias upgrade"), NULL, 0, NULL);
 	mciSendString(_T("open mus/ice.mp3 alias ice"), NULL, 0, NULL);
-
+	mciSendString(_T("open mus/dizze.wav alias dizze"), NULL, 0, NULL);
 
 	std::vector<std::vector<Object*>> widgets_obj;
 	widgets_obj.resize(widget_num);
@@ -154,7 +153,7 @@ void game::running_game()
 
 	BeginBatchDraw();
 
-	mciSendString(_T("play begin repeat from 0"), NULL, 0, NULL);
+	mciSendString(_T("play begin from 0"), NULL, 0, NULL);
 
 	while(is_running)
 	{

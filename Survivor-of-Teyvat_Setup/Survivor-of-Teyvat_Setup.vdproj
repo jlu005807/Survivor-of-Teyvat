@@ -15,12 +15,6 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_00BECB05C835476288C9A5C2B724767D"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_0173700F8D6149AB9830EE778A5BD80A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -51,7 +45,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_12FD5223387946C49CA709F7988C7C7E"
+        "MsmKey" = "8:_0ECCBEE8D8FB41FD92079B7EC49C156B"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -69,7 +63,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_1B88784F93F441FF834ADC7E1317E090"
+        "MsmKey" = "8:_2077254B9A7C40B9A5BDB97002889502"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -112,12 +106,6 @@
         "Entry"
         {
         "MsmKey" = "8:_31B6D141C6D942ECA44A6C7704C2D0D8"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_31FEE4B113A344A69FAE3C50159E5472"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -171,18 +159,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_45FBF9E307D94367BB5780571879F1DF"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_475E44D7A4E54FF98C289C6145850C02"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_477C586322D84AC0A0513C96155AE158"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -225,6 +201,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_55AFC7EC6FBB49E6A9BBA87BEE655E44"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_56CC08D51BD91590FC633EE741A1BCEE"
         "OwnerKey" = "8:_8C88AB168709466FB831B04D8EB2DD8C"
         "MsmSig" = "8:_UNDEFINED"
@@ -257,6 +239,12 @@
         {
         "MsmKey" = "8:_64D7015CEFB2374B6CDF128F74163928"
         "OwnerKey" = "8:_8C88AB168709466FB831B04D8EB2DD8C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_652A01B56CA645A1BF681C25F453B47D"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -399,6 +387,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_90230E47125848E996498CB2824BEE64"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_93C65E58EACE4DDA9D7836E0097149B7"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -477,12 +471,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_A932CC3C5D7B40DE8AF62C67025D2991"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_A98C2DA7114347289E38AC68F8718147"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -555,12 +543,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_BB02D714F26E4972BEE8A2EB8AE5ECAE"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_BBC305A52F694D7BAA364A870B7754BF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -579,6 +561,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_C23F735AA15C4AA783BD67F1CD554414"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_C73C145CCC124AAB9F81A64C17591B7D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -586,6 +574,12 @@
         "Entry"
         {
         "MsmKey" = "8:_C9BCCA44BA2440F19B1667FE7012270F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CB661FA3444D41C0A51906EA6EFEC2B9"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -604,6 +598,12 @@
         "Entry"
         {
         "MsmKey" = "8:_D0E4351F75C747C185D734BD763C6AFF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D5743E8000E44AEDA3EFD276193EDE4D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -652,6 +652,12 @@
         "Entry"
         {
         "MsmKey" = "8:_E041E5BF596A4B3EA47BC52F70406CDF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E0B88551D1C44FD99889DF00C138AFAF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -758,6 +764,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
         "Release"
@@ -782,6 +796,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -804,26 +826,6 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_00BECB05C835476288C9A5C2B724767D"
-            {
-            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\begin.mp3"
-            "TargetName" = "8:begin.mp3"
-            "Tag" = "8:"
-            "Folder" = "8:_D433A27A0612471496578E915CB69082"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0173700F8D6149AB9830EE778A5BD80A"
             {
             "SourcePath" = "8:..\\Survivor of Teyvat\\img\\boar_right_3.png"
@@ -924,12 +926,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_12FD5223387946C49CA709F7988C7C7E"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0ECCBEE8D8FB41FD92079B7EC49C156B"
             {
-            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\upgrade.wav"
-            "TargetName" = "8:upgrade.wav"
+            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\click.mp3"
+            "TargetName" = "8:click.mp3"
             "Tag" = "8:"
-            "Folder" = "8:_D433A27A0612471496578E915CB69082"
+            "Folder" = "8:_95A712B542EE485AB8654CC0AA23EA48"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -984,12 +986,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1B88784F93F441FF834ADC7E1317E090"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2077254B9A7C40B9A5BDB97002889502"
             {
-            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\hurt.wav"
-            "TargetName" = "8:hurt.wav"
+            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\ice.mp3"
+            "TargetName" = "8:ice.mp3"
             "Tag" = "8:"
-            "Folder" = "8:_D433A27A0612471496578E915CB69082"
+            "Folder" = "8:_95A712B542EE485AB8654CC0AA23EA48"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1130,26 +1132,6 @@
             "TargetName" = "8:paimon_right_0.png"
             "Tag" = "8:"
             "Folder" = "8:_5E74494D42E441328695E5F5991CC80D"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_31FEE4B113A344A69FAE3C50159E5472"
-            {
-            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\click.mp3"
-            "TargetName" = "8:click.mp3"
-            "Tag" = "8:"
-            "Folder" = "8:_D433A27A0612471496578E915CB69082"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1324,46 +1306,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_45FBF9E307D94367BB5780571879F1DF"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\Downloads\\ice.mp3"
-            "TargetName" = "8:ice.mp3"
-            "Tag" = "8:"
-            "Folder" = "8:_D433A27A0612471496578E915CB69082"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_475E44D7A4E54FF98C289C6145850C02"
-            {
-            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\bgm.mp3"
-            "TargetName" = "8:bgm.mp3"
-            "Tag" = "8:"
-            "Folder" = "8:_D433A27A0612471496578E915CB69082"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_477C586322D84AC0A0513C96155AE158"
             {
             "SourcePath" = "8:..\\Survivor of Teyvat\\img\\snail_left_4.png"
@@ -1504,6 +1446,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_55AFC7EC6FBB49E6A9BBA87BEE655E44"
+            {
+            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\upgrade.wav"
+            "TargetName" = "8:upgrade.wav"
+            "Tag" = "8:"
+            "Folder" = "8:_95A712B542EE485AB8654CC0AA23EA48"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_56CC08D51BD91590FC633EE741A1BCEE"
             {
             "SourcePath" = "8:api-ms-win-crt-math-l1-1-0.dll"
@@ -1622,6 +1584,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_652A01B56CA645A1BF681C25F453B47D"
+            {
+            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\Push_Button.mp3"
+            "TargetName" = "8:Push_Button.mp3"
+            "Tag" = "8:"
+            "Folder" = "8:_95A712B542EE485AB8654CC0AA23EA48"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_669A986F585940BA96736CECAC6A0EE9"
@@ -2064,6 +2046,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_90230E47125848E996498CB2824BEE64"
+            {
+            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\bgm.mp3"
+            "TargetName" = "8:bgm.mp3"
+            "Tag" = "8:"
+            "Folder" = "8:_95A712B542EE485AB8654CC0AA23EA48"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_93C65E58EACE4DDA9D7836E0097149B7"
             {
             "SourcePath" = "8:..\\Survivor of Teyvat\\img\\warrior_walk_left_5.png"
@@ -2324,26 +2326,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A932CC3C5D7B40DE8AF62C67025D2991"
-            {
-            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\hit.wav"
-            "TargetName" = "8:hit.wav"
-            "Tag" = "8:"
-            "Folder" = "8:_D433A27A0612471496578E915CB69082"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A98C2DA7114347289E38AC68F8718147"
             {
             "SourcePath" = "8:..\\Survivor of Teyvat\\img\\attack_left.png"
@@ -2584,26 +2566,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BB02D714F26E4972BEE8A2EB8AE5ECAE"
-            {
-            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\Push_Button.mp3"
-            "TargetName" = "8:Push_Button.mp3"
-            "Tag" = "8:"
-            "Folder" = "8:_D433A27A0612471496578E915CB69082"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BBC305A52F694D7BAA364A870B7754BF"
             {
             "SourcePath" = "8:..\\Survivor of Teyvat\\img\\boar_left_3.png"
@@ -2664,6 +2626,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C23F735AA15C4AA783BD67F1CD554414"
+            {
+            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\hurt.wav"
+            "TargetName" = "8:hurt.wav"
+            "Tag" = "8:"
+            "Folder" = "8:_95A712B542EE485AB8654CC0AA23EA48"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C73C145CCC124AAB9F81A64C17591B7D"
             {
             "SourcePath" = "8:..\\Survivor of Teyvat\\img\\snail_right_3.png"
@@ -2690,6 +2672,26 @@
             "TargetName" = "8:snail_right_7.png"
             "Tag" = "8:"
             "Folder" = "8:_5E74494D42E441328695E5F5991CC80D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CB661FA3444D41C0A51906EA6EFEC2B9"
+            {
+            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\dizze.wav"
+            "TargetName" = "8:dizze.wav"
+            "Tag" = "8:"
+            "Folder" = "8:_95A712B542EE485AB8654CC0AA23EA48"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2750,6 +2752,26 @@
             "TargetName" = "8:snail_right_5.png"
             "Tag" = "8:"
             "Folder" = "8:_5E74494D42E441328695E5F5991CC80D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D5743E8000E44AEDA3EFD276193EDE4D"
+            {
+            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\hit.wav"
+            "TargetName" = "8:hit.wav"
+            "Tag" = "8:"
+            "Folder" = "8:_95A712B542EE485AB8654CC0AA23EA48"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2910,6 +2932,26 @@
             "TargetName" = "8:attack_up.png"
             "Tag" = "8:"
             "Folder" = "8:_5E74494D42E441328695E5F5991CC80D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E0B88551D1C44FD99889DF00C138AFAF"
+            {
+            "SourcePath" = "8:..\\Survivor of Teyvat\\mus\\begin.mp3"
+            "TargetName" = "8:begin.mp3"
+            "Tag" = "8:"
+            "Folder" = "8:_95A712B542EE485AB8654CC0AA23EA48"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3222,13 +3264,13 @@
                         {
                         }
                     }
-                    "{9EF0B969-E518-4E46-987F-47570745A589}:_D433A27A0612471496578E915CB69082"
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_95A712B542EE485AB8654CC0AA23EA48"
                     {
                     "Name" = "8:mus"
                     "AlwaysCreate" = "11:FALSE"
                     "Condition" = "8:"
                     "Transitive" = "11:FALSE"
-                    "Property" = "8:_95382414CDCF48F3A19C1B369CD6EACA"
+                    "Property" = "8:_FE678B4EA1D94D20B35EFACAAEA08066"
                         "Folders"
                         {
                         }
