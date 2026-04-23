@@ -76,6 +76,8 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalOptions>/utf-8 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>$(ProjectDir)include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -90,6 +92,8 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalOptions>/utf-8 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>$(ProjectDir)include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -104,6 +108,8 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalOptions>/utf-8 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>$(ProjectDir)include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -118,6 +124,8 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalOptions>/utf-8 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>$(ProjectDir)include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -127,16 +135,31 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Animation.h" />
-    <ClInclude Include="Button.h" />
-    <ClInclude Include="Enemy.h" />
-    <ClInclude Include="game.h" />
-    <ClInclude Include="Object.h" />
-    <ClInclude Include="Player.h" />
-    <ClInclude Include="Widget.h" />
+    <ClInclude Include="include\Atlas.h" />
+    <ClInclude Include="include\Animation.h" />
+    <ClInclude Include="include\BeeEffect.h" />
+    <ClInclude Include="include\BoarEffect.h" />
+    <ClInclude Include="include\Bullet.h" />
+    <ClInclude Include="include\Button.h" />
+    <ClInclude Include="include\Enemy.h" />
+    <ClInclude Include="include\EnemyEffect.h" />
+    <ClInclude Include="include\EnemyPool.h" />
+    <ClInclude Include="include\game.h" />
+    <ClInclude Include="include\Object.h" />
+    <ClInclude Include="include\Player.h" />
+    <ClInclude Include="include\SnailEffect.h" />
+    <ClInclude Include="include\Widget.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="src\Animation.cpp" />
+    <ClCompile Include="src\Atlas.cpp" />
+    <ClCompile Include="src\Bullet.cpp" />
+    <ClCompile Include="src\EnemyEffectResolver.cpp" />
+    <ClCompile Include="src\GameCore.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\PlayerCore.cpp" />
+    <ClCompile Include="src\WidgetMessage.cpp" />
+    <ClCompile Include="src\WidgetRender.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

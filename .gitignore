@@ -1,4 +1,4 @@
-# 忽略Visual Studio和编译中间文件
+# 忽略 Visual Studio 和编译中间文件。
 *.obj
 *.log
 *.pdb
@@ -11,18 +11,17 @@
 *.exe.recipe
 *.vcxproj.FileListAbsolute.txt
 
-# 忽略Debug和Release目录下的所有内容
+# 忽略 Debug 和 Release 目录下的生成内容。
 x64/Debug/
 x64/Release/
 Survivor\ of\ Teyvat/Debug/
 Survivor\ of\ Teyvat/Release/
 Survivor\ of\ Teyvat/x64/Debug/
 Survivor\ of\ Teyvat/x64/Release/
+Survivor\ of\ Teyvat/Survivor.*/
 Survivor-of-Teyvat_Setup/Debug/
 
-
-
-# 忽略Visual Studio项目相关文件和用户设置
+# 忽略 Visual Studio 项目缓存和用户本地设置。
 .vs/
 *.user
 *.suo
@@ -34,4 +33,7 @@ Survivor-of-Teyvat_Setup/Debug/
 *.opensdf
 *.ipch
 *.aps
-*.VC.VC.opendb 
+*.VC.VC.opendb
+
+# 本地参考资料不进入仓库。
+references/
