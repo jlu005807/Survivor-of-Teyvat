@@ -84,6 +84,10 @@ public:
 	// 释放图集、场景和音频资源。
 	static void close_game();
 
+	static void Reset_battle_widget();
+
+	static void Handle_game_over(int score);
+
 	// 场景列表。
 	static std::vector<Widget*> m_widgets;
 };

@@ -103,10 +103,8 @@ public:
 
 			if (player->bullet_list.empty())
 			{
-				TCHAR text[64];
-				_stprintf_s(text, _T("最终得分：%d"), player->score);
-				MessageBox(GetHWnd(), text, _T("游戏结束"), MB_OK);
-				game::Change_running(false);
+				game::Handle_game_over(player->score);
+				return;
 			}
 		}
 		else

@@ -221,6 +221,53 @@ void game::running_game()
 	EndBatchDraw();
 }
 
+void game::Reset_battle_widget()
+{
+	if (game::m_widgets.size() <= 1 || game::m_widgets[1] == nullptr)
+	{
+		Player::DestroyInstance();
+		return;
+	}
+
+	Widget* battle_widget = game::m_widgets[1];
+	Player* current_player = Player::GetInstance();
+
+	for (Object* object : battle_widget->m_objects)
+	{
+		if (object == current_player)
+			continue;
+
+		Enemy* enemy = dynamic_cast<Enemy*>(object);
+		if (enemy != nullptr)
+			EnemyPool::Instance().Release(enemy);
+		else
+			delete object;
+	}
+
+	battle_widget->m_objects.clear();
+	Player::DestroyInstance();
+}
+
+void game::Handle_game_over(int score)
+{
+	TCHAR text[128];
+	_stprintf_s(text, _T("最终得分：%d\n是否重新开始？\n选择“是”重新开始，选择“否”退出游戏。"), score);
+
+	const int result = MessageBox(GetHWnd(), text, _T("游戏结束"), MB_YESNO | MB_ICONINFORMATION);
+	if (result == IDYES)
+	{
+		mciSendString(_T("stop bgm"), NULL, 0, NULL);
+		mciSendString(_T("play begin from 0"), NULL, 0, NULL);
+		game::Reset_battle_widget();
+		game::Change_widget(3);
+	}
+	else
+	{
+		mciSendString(_T("stop all"), NULL, 0, NULL);
+		game::Change_running(false);
+	}
+}
+
 void game::close_game()
 {
 	mciSendString(_T("stop all"), NULL, 0, NULL);
